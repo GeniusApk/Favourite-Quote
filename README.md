@@ -21,10 +21,6 @@ Click Here to Download
 
 
 
-## License
-
-[MIT](https://github.com/in-deep-dive/ConvertEasy/blob/master/LICENSE)
-
 
 
 ## Developer
